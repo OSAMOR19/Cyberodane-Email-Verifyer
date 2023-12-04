@@ -1,0 +1,34 @@
+.container{
+    background-color: #fff;
+    margin: 0 auto;
+    width: 100%;
+   
+    font-family: sans-serif;
+    color: #4a4a4a;
+    border-spacing: 0;
+}
+
+.details{
+    background-color: rgb(198, 196, 196);
+    text-align: end;
+    font-weight: bold;
+}
+
+.message{
+    margin-top: 60px;
+}
+img{
+    width: 400px;
+}
+.details-side{
+    background-color: rgb(247, 245, 245);
+    margin-left: 70px;
+}
+.button{
+    background-color: #4980d2;
+    color: #fff;
+    text-decoration: none;
+    padding: 12px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+}
